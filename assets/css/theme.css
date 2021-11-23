@@ -64,15 +64,15 @@ body {
   text-align: right;
 }
 
-.About {
+.about {
   background-color: #131517;
 }
 
-.About h2, h6, .span-h2, .span{
+.about h2, h6, .span-h2, .span{
   color: #fff;
 }
 
-.Usage {
+.usage {
   margin-bottom: -90px;
 
 }
