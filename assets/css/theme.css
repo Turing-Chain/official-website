@@ -62,8 +62,21 @@ body {
 
 .buttons {
   text-align: right;
+}
+
+.About {
+  background-color: #131517;
+}
+
+.About h2, h6, .span-h2, .span{
+  color: #fff;
+}
+
+.Usage {
+  margin-bottom: -90px;
 
 }
+
 
 .btn-hover {
   width: 200px;
