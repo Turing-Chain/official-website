@@ -3850,14 +3850,14 @@ div[class^='bg-dark'] .button-text-3:hover:before, div[class*=' bg-dark'] .butto
   top: 0;
   left: -1px;
   height: 100%;
-  border-left: 1px dashed rgba(0, 0, 0, 0.1);
+  border-left: 1px dashed rgba(255, 255, 255, 0.1);
 }
 
 .clients-grid li:after {
   left: 0;
   bottom: -1px;
   width: 100%;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
 }
 
 .clients-grid li a img {
