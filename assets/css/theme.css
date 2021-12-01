@@ -72,8 +72,8 @@ body {
   color: #fff;
 }
 
-.usage {
-  margin-bottom: -90px;
+.whom {
+  margin-bottom: -50px;
 
 }
 
@@ -6455,9 +6455,9 @@ div[class^='bg-dark'] .owl-carousel .owl-dots .owl-dot:hover:after, div[class^='
 }
 
 .testimonial-grid .testimonial-grid-box .testimonial-img img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
+  width: 160px;
+  height: 100px;
+  border-radius: 0%;
 }
 
 .testimonial-grid .testimonial-grid-box .testimonial-content {
