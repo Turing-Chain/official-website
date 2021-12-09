@@ -81,7 +81,34 @@ body {
   font-weight: 400;
 }
 
+.benefits-img img{
+  width: 100px;
+  height: 100px;
+}
 
+.span-no {
+  font-size: 1.33em;
+  /* 20px */
+  line-height: 1.8;
+  /* 36px */
+  margin: 0 0 10px;
+  letter-spacing: -0.3px;
+  color: #131517;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+.span-xl {
+  font-size: 1.5em;
+  /* 20px */
+  line-height: 1.8;
+  /* 36px */
+  margin: 0 0 10px;
+  letter-spacing: -0.3px;
+  color: #CE8B3D;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
 
 * {
   -webkit-box-sizing: border-box;
