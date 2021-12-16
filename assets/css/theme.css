@@ -182,6 +182,10 @@ body {
   color: #131517;
 }
 
+.buttons-center {
+  text-align: center;
+}
+
 
 @media (min-width: 768px) {
   .col-spacing-70 .row:not([class^="col-spacing-"]):not([class*=" col-spacing-"]),
@@ -250,6 +254,9 @@ body {
   .container-fluid .col-spacing-40 {
     margin-right: -10px;
     margin-left: -10px;
+  }
+  .buttons-center {
+    text-align: right;
   }
 }
 
