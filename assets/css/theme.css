@@ -186,6 +186,14 @@ body {
   text-align: center;
 }
 
+.masonry .masonry-item h5{
+  line-height: 1.5em;
+}
+
+.masonry .masonry-item p{
+  line-height: 1.5em;
+}
+
 
 @media (min-width: 768px) {
   .col-spacing-70 .row:not([class^="col-spacing-"]):not([class*=" col-spacing-"]),
@@ -8307,6 +8315,7 @@ div[class^='bg-black'].fullscreen-menu .fm-wrapper .fm-close span:before, div[cl
 .masonry .masonry-item {
   margin-bottom: 30px;
   padding: 0 15px;
+
 }
 
 .masonry.masonry-column-1 .masonry-item {
